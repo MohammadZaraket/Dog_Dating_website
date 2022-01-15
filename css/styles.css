@@ -265,3 +265,19 @@ button:hover{
    margin: auto;
    margin-right: 5%;
 }
+
+
+#footer p {
+
+    padding-top: 2%;
+    font-weight: 500;
+    font-size: 10px;
+}
+
+.icons {
+    padding-top: 10%;
+}
+
+.icons i {
+    margin: 2%;
+}
