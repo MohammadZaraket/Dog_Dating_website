@@ -1,7 +1,7 @@
 
 #title {
 
-    background-color: blue !important;
+    background-image: linear-gradient(rgb(56, 53, 224),rgb(148, 82, 235)) !important;
 }
 
 
@@ -16,7 +16,7 @@
 
     font-size: 30px !important;
     padding-left: 10%;
-    font-weight: 500;
+    font-weight: 600;
     /*color: white;*/
 }
 
@@ -25,11 +25,22 @@
     font-size: 20px;
     text-transform: capitalize;
     color: white !important;
-    font-weight: 300;
+    font-weight: 500;
+    opacity: 0.6;
+    margin-left: 20px;
+
 }
 
-.navbar-light .navbar-nav .nav-link {
-    color: white;
+
+.navbar-nav .nav-link:hover {
+
+    opacity: 1;
+
+}
+
+.nav-link{
+
+    text-align: center;
 }
 
 
@@ -37,3 +48,11 @@
 
 
 /* Finish Styling Navbar*/
+
+
+.heading{
+    color: white;
+    padding: 4% 10%;
+    font-weight:bolder;
+    font-size: 40px;
+}
