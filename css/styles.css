@@ -1,0 +1,39 @@
+
+#title {
+
+    background-color: blue !important;
+}
+
+
+
+/* Styling Navbar*/
+
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+.navbar-brand {
+
+    font-size: 30px !important;
+    padding-left: 10%;
+    font-weight: 500;
+    /*color: white;*/
+}
+
+.navbar-nav .nav-link {
+    
+    font-size: 20px;
+    text-transform: capitalize;
+    color: white !important;
+    font-weight: 300;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+
+
+
+
+/* Finish Styling Navbar*/
