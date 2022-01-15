@@ -70,10 +70,15 @@ button {
 
 .android {
 
-   /*background-color: #2b2a2a;*/
    background-color: transparent;
     border: 1px solid  #f7f3f3;
     margin-left: 1%;
+
+}
+
+button:hover{
+    background-color: white;
+    color: black;
 
 }
 
