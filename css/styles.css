@@ -53,28 +53,27 @@
 
 /* Styling Buttons*/
 
-.apple {
+button {
 
-        
-    background-color: #2b2a2a;
     color: white;
     padding: 10px 20px;
     font-size: 20px;
+    border-radius: 10% !important;
+}
+
+.apple {
+
+    background-color: #2b2a2a;
     border: 1px solid  #111111;
-    border-radius: 10%;
-    margin-left: 10%;
+    margin-left: 20%;
 
 }
 
 .android {
 
-        
    /*background-color: #2b2a2a;*/
-    color: white;
-    padding: 10px 20px;
-    font-size: 20px;
+   background-color: transparent;
     border: 1px solid  #f7f3f3;
-    border-radius: 10%;
     margin-left: 1%;
 
 }
@@ -83,15 +82,30 @@
 
 
 
-
-
-
 /*Finish Styling Buttons*/
+
+/*Images*/
+
+
+
+.rotate {
+    background-color: transparent;
+    padding-top: 10%;
+    transform: rotate(30deg);
+  }
+
+  
+
 
 
 .heading{
     color: white;
-    padding: 4% 10%;
+    padding: 4% 20%;
     font-weight:bolder;
     font-size: 40px;
+}
+
+#srow {
+    
+ --bs-gutter-x: 0rem;
 }
