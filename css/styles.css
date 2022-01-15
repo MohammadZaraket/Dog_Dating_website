@@ -50,6 +50,45 @@
 /* Finish Styling Navbar*/
 
 
+
+/* Styling Buttons*/
+
+.apple {
+
+        
+    background-color: #2b2a2a;
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 1px solid  #111111;
+    border-radius: 10%;
+    margin-left: 10%;
+
+}
+
+.android {
+
+        
+   /*background-color: #2b2a2a;*/
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    border: 1px solid  #f7f3f3;
+    border-radius: 10%;
+    margin-left: 1%;
+
+}
+
+
+
+
+
+
+
+
+/*Finish Styling Buttons*/
+
+
 .heading{
     color: white;
     padding: 4% 10%;
