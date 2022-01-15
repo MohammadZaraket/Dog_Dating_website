@@ -160,9 +160,71 @@ button:hover{
 /* Finish Styling Features*/
 
 
-
+/*Start Carousel*/
 
 
 #testimonials {
     background-image: linear-gradient(rgb(56, 53, 224),rgb(148, 82, 235)) !important;
 }
+
+
+.carousel-item img {
+
+    display: block;
+    margin: auto;
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+
+
+}
+
+.carousel-item h2 {
+
+    padding-top: 2%;
+    margin: auto;
+    width: 25%;
+    padding-bottom: 2%;
+    font-weight: bolder;
+
+}
+
+
+.carousel-item em {
+
+    padding-left: 50%;
+    color: white;
+
+}
+
+#press {
+  
+    display: flex;
+    align-content: center;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+
+
+
+#press img {
+
+    width: 20%;
+    height: 20%;
+    margin: auto;
+    display: block;
+
+
+
+}
+/*
+#lbc {
+ 
+
+
+
+
+}
+*/
+
+/*End Carousel*/
