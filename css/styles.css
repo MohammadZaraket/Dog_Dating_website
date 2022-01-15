@@ -228,3 +228,20 @@ button:hover{
 */
 
 /*End Carousel*/
+
+
+
+/*Pricing Styling*/
+
+
+
+.pricinghead h2 {
+
+    padding-top: 5%;
+    font-weight: bold;
+}
+
+
+#pricing {
+    padding-bottom: 10%;
+}
