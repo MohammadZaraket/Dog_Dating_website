@@ -5,7 +5,6 @@
 }
 
 
-
 /* Styling Navbar*/
 
 
@@ -119,5 +118,38 @@ button {
     
 }
 
+/*Styling Features*/
+
+.features i {
+    
+    background-color: white;
+    color: rgb(148, 82, 235);
+    padding: 20px;
+    width: 300px;
+    size: 20%;
+    margin-bottom: 50px;
+    font-size: 125px;
+}
 
 
+.features h3 {
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+    
+}
+
+
+.features p {
+    color:black;
+    font-size: 15px;
+    margin-bottom: 100px;
+    font-weight: 600;
+    
+}
+
+
+
+
+
+/* Finish Styling Features*/
