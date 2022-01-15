@@ -16,7 +16,6 @@
     font-size: 30px !important;
     padding-left: 10%;
     font-weight: 600;
-    /*color: white;*/
 }
 
 .navbar-nav .nav-link {
@@ -206,7 +205,6 @@ button:hover{
 }
 
 
-
 #press img {
 
     width: 20%;
@@ -217,6 +215,7 @@ button:hover{
 
 
 }
+
 /*
 #lbc {
  
@@ -244,4 +243,25 @@ button:hover{
 
 #pricing {
     padding-bottom: 10%;
+}
+
+
+
+
+#cta {
+    background-color:rgb(46, 24, 143);
+    padding: 10%;
+}
+
+#cta h3 {
+    font-weight: 900;
+    font-size: 35px;
+    color: white;
+    padding-bottom: 5%;
+}
+
+
+#cta button {
+   margin: auto;
+   margin-right: 5%;
 }
