@@ -272,6 +272,7 @@ button:hover{
     padding-top: 2%;
     font-weight: 500;
     font-size: 10px;
+    padding-bottom: 4%;
 }
 
 .icons {
@@ -279,5 +280,6 @@ button:hover{
 }
 
 .icons i {
-    margin: 2%;
+    margin: 1.5%;
+    color: black;
 }
