@@ -153,7 +153,8 @@ button:hover{
 
 .features {
     padding: 50px 0;
-    
+    position: relative;
+    background-color: white;
 }
 
 
