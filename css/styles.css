@@ -11,6 +11,7 @@
 .navbar-light .navbar-brand {
     color: white;
 }
+
 .navbar-brand {
 
     font-size: 30px !important;
@@ -63,15 +64,15 @@ button {
 
     background-color: #2b2a2a;
     border: 1px solid  #111111;
-    margin-left: 20%;
+    /*margin-left: 20%;*/
 
 }
 
 .android {
 
-   background-color: transparent;
+    background-color: transparent;
     border: 1px solid  #f7f3f3;
-    margin-left: 1%;
+   /* margin-left: 1%;*/
 
 }
 
@@ -93,7 +94,7 @@ button:hover{
 
 .rotate {
     background-color: transparent;
-    padding-top: 10%;
+    /*padding-top: 10%;*/
     transform: rotate(25deg);
   }
 
@@ -103,17 +104,18 @@ button:hover{
 
 .heading{
     color: white;
-    padding: 4% 20%;
+    /*padding: 4% 20%;*/
+    padding-bottom: 5%;
     font-weight:bolder;
     font-size: 40px;
 }
 
-#srow {
-    
- --bs-gutter-x: 0rem;
-}
 
 
+
+
+
+/*Styling Features*/
 
 
 
@@ -122,7 +124,6 @@ button:hover{
     
 }
 
-/*Styling Features*/
 
 .features i {
     
@@ -282,4 +283,33 @@ button:hover{
 .icons i {
     margin: 1.5%;
     color: black;
+}
+
+
+
+
+
+.how-section1{
+    margin-top:-15%;
+    padding: 10%;
+}
+.how-section1 h4{
+    color: #ffa500;
+    font-weight: bold;
+    font-size: 30px;
+}
+.how-section1 .subheading{
+    color: #3931af;
+    font-size: 20px;
+}
+.how-section1 .row
+{
+    margin-top: 10%;
+}
+.how-img 
+{
+    text-align: center;
+}
+.how-img img{
+    width: 40%;
 }
