@@ -139,6 +139,20 @@ button:hover{
     transform: rotate(25deg);
   }
 
+
+ @media (max-width:750px) {
+    
+    .col-md-6 img {
+        transform: rotate(0);
+      }
+
+      #title {
+
+        max-height: 1000px;
+    }
+        
+    }
+
   
 /*Finish Styling Images*/
 
