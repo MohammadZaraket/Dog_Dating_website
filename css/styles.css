@@ -1,8 +1,5 @@
 
-#title {
 
-    background-image: linear-gradient(rgb(56, 53, 224),rgb(148, 82, 235)) !important;
-}
 
 
 /* Styling Navbar*/
@@ -44,9 +41,53 @@
 
 
 
-
-
 /* Finish Styling Navbar*/
+
+
+
+
+
+/*Styling Titile */
+
+
+#title {
+
+    background-image: linear-gradient(rgb(56, 53, 224),rgb(148, 82, 235)) !important;
+    max-height: 380px;
+}
+
+
+
+.heading{
+    color: white;
+    padding-bottom: 5%;
+    font-weight:bolder;
+    font-size: 40px;
+}
+
+.how-section1{
+    margin-top:-15%;
+    padding: 10%;
+}
+
+.how-section1 .row
+{
+    margin-top: 10%;
+}
+.how-img 
+{
+    text-align: center;
+}
+.how-img img{
+    width: 50%;
+}
+
+
+
+
+
+/*Finish Styling Titile */
+
 
 
 
@@ -64,17 +105,17 @@ button {
 
     background-color: #2b2a2a;
     border: 1px solid  #111111;
-    /*margin-left: 20%;*/
 
 }
+
 
 .android {
 
     background-color: transparent;
     border: 1px solid  #f7f3f3;
-   /* margin-left: 1%;*/
 
 }
+
 
 button:hover{
     background-color: white;
@@ -84,31 +125,23 @@ button:hover{
 
 
 
-
-
 /*Finish Styling Buttons*/
+
+
+
+
 
 /*Images*/
 
 
-
 .rotate {
     background-color: transparent;
-    /*padding-top: 10%;*/
     transform: rotate(25deg);
   }
 
   
+/*Finish Styling Images*/
 
-
-
-.heading{
-    color: white;
-    /*padding: 4% 20%;*/
-    padding-bottom: 5%;
-    font-weight:bolder;
-    font-size: 40px;
-}
 
 
 
@@ -116,7 +149,6 @@ button:hover{
 
 
 /*Styling Features*/
-
 
 
 .features {
@@ -156,8 +188,11 @@ button:hover{
 
 
 
-
 /* Finish Styling Features*/
+
+
+
+
 
 
 /*Start Carousel*/
@@ -217,21 +252,16 @@ button:hover{
 
 }
 
-/*
-#lbc {
- 
 
-
-
-
-}
-*/
 
 /*End Carousel*/
 
 
 
-/*Pricing Styling*/
+
+
+
+/*Styling Pricing */
 
 
 
@@ -247,7 +277,12 @@ button:hover{
 }
 
 
+/*Finish Styling Pricing*/
 
+
+
+
+/*Styling Cta*/
 
 #cta {
     background-color:rgb(46, 24, 143);
@@ -268,6 +303,12 @@ button:hover{
 }
 
 
+
+/*Finish Styling Cta*/
+
+
+
+/*Styling Footer*/
 #footer p {
 
     padding-top: 2%;
@@ -286,30 +327,8 @@ button:hover{
 }
 
 
+/*Finish Styling Footer*/
 
 
 
-.how-section1{
-    margin-top:-15%;
-    padding: 10%;
-}
-.how-section1 h4{
-    color: #ffa500;
-    font-weight: bold;
-    font-size: 30px;
-}
-.how-section1 .subheading{
-    color: #3931af;
-    font-size: 20px;
-}
-.how-section1 .row
-{
-    margin-top: 10%;
-}
-.how-img 
-{
-    text-align: center;
-}
-.how-img img{
-    width: 40%;
-}
+
