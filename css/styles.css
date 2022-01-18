@@ -250,9 +250,8 @@ button:hover{
 }
 
 #press {
-  
-    /*display: flex;
-    align-content: center;*/
+
+    align-content: center;
     padding-bottom: 5%;
     padding-top: 5%;
 }
@@ -262,10 +261,8 @@ button:hover{
 
     width: 20%;
     height: 20%;
-   /* margin: auto;
-    display: block;
-*/
-
+    padding-right: 2%;
+    padding-bottom: 2%;
 
 }
 
