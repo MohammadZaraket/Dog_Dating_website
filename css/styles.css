@@ -226,8 +226,6 @@ button:hover{
 
 .carousel-item img {
 
-    display: block;
-    margin: auto;
     width: 10%;
     height: 10%;
     border-radius: 50%;
@@ -237,9 +235,8 @@ button:hover{
 
 .carousel-item h2 {
 
-    padding-top: 2%;
+    padding-top: 4%;
     margin: auto;
-    width: 25%;
     padding-bottom: 2%;
     font-weight: bolder;
 
@@ -248,15 +245,14 @@ button:hover{
 
 .carousel-item em {
 
-    padding-left: 50%;
     color: white;
 
 }
 
 #press {
   
-    display: flex;
-    align-content: center;
+    /*display: flex;
+    align-content: center;*/
     padding-bottom: 5%;
     padding-top: 5%;
 }
@@ -266,9 +262,9 @@ button:hover{
 
     width: 20%;
     height: 20%;
-    margin: auto;
+   /* margin: auto;
     display: block;
-
+*/
 
 
 }
