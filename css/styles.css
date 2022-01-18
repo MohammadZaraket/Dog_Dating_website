@@ -1,16 +1,15 @@
 /* Styling Navbar*/
 
 
-
 .navbar-light .navbar-brand {
     color: white;
 }
 
 .navbar-brand {
 
-    font-size: 30px !important;
+    font-size: 2.5rem !important;
     padding-left: 10%;
-    font-weight: 600;
+    font-weight: 500;
 }
 
 .navbar-nav .nav-link {
@@ -36,10 +35,7 @@
     text-align: center;
 }
 
-
-
 /* Finish Styling Navbar*/
-
 
 
 
@@ -47,13 +43,11 @@
 /*Styling Titile */
 
 
-
 #title {
 
-    background-image: linear-gradient(rgb(56, 53, 224),rgb(148, 82, 235)) !important;
+    background-color:rgb(105 68 229) !important; /*Tried to find the exact Color :) */
     max-height: 380px;
 }
-
 
 
 .heading{
@@ -74,10 +68,12 @@
 {
     margin-top: 10%;
 }
+
 .how-img 
 {
     text-align: center;
 }
+
 .how-img img{
     width: 50%;
 }
@@ -89,9 +85,7 @@
 
 
 
-
 /* Styling Buttons*/
-
 
 
 button {
@@ -126,15 +120,12 @@ button:hover{
 }
 
 
-
 /*Finish Styling Buttons*/
 
 
 
 
-
 /*Images*/
-
 
 
 .rotate {
@@ -154,18 +145,16 @@ button:hover{
 
         max-height: 1000px;
     }
+
         
     }
-
   
 /*Finish Styling Images*/
 
 
 
 
-
 /*Styling Features*/
-
 
 
 .features {
@@ -179,7 +168,7 @@ button:hover{
 .features i {
     
     background-color: white;
-    color: rgb(148, 82, 235);
+    color: rgb(105 68 229);
     padding: 20px;
     width: 300px;
     size: 20%;
@@ -207,9 +196,7 @@ button:hover{
 }
 
 
-
 /* Finish Styling Features*/
-
 
 
 
@@ -217,10 +204,9 @@ button:hover{
 /*Start Carousel*/
 
 
-
 #testimonials {
 
-    background-image: linear-gradient(rgb(56, 53, 224),rgb(148, 82, 235)) !important;
+    background-color: rgb(105 68 229) !important;
 }
 
 
@@ -229,7 +215,6 @@ button:hover{
     width: 10%;
     height: 10%;
     border-radius: 50%;
-
 
 }
 
@@ -267,15 +252,12 @@ button:hover{
 }
 
 
-
 /*End Carousel*/
 
 
 
 
-
 /*Styling Pricing */
-
 
 
 .pricinghead h2 {
@@ -291,15 +273,12 @@ button:hover{
 }
 
 
-
 /*Finish Styling Pricing*/
 
 
 
 
-
 /*Styling Cta*/
-
 
 
 #cta {
@@ -324,15 +303,12 @@ button:hover{
 }
 
 
-
 /*Finish Styling Cta*/
 
 
 
 
-
 /*Styling Footer*/
-
 
 
 #footer p {
@@ -353,6 +329,5 @@ button:hover{
     margin: 1.5%;
     color: black;
 }
-
 
 /*Finish Styling Footer*/
